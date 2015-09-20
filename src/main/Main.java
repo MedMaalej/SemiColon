@@ -149,7 +149,7 @@ public class Main {
 		output.setBackground(Color.BLACK);
 		output.setEditable(true);
 		scrollPane = new JScrollPane(output);
-        JFrame splash = new JFrame();
+        	JFrame splash = new JFrame();
 		// Add the text area to the content pane.
 		contentPane.add(scrollPane, BorderLayout.CENTER);
 		menuBar = new JMenuBar();
